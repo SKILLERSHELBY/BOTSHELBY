@@ -30,7 +30,7 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/SKILLERSHELBY/BOTSHELBY.git
+> git clone https://github.com/SKILLERSHELBY/Botskiller.git
 > cd BOTSHELBY
 > bash install.sh
 ```
